@@ -4,4 +4,4 @@
 
 # Live demo
 
-🔗 Mint's Sign up page](https://norah-rsn.github.io/Register-form/)
+🔗 [Click here!](https://norah-rsn.github.io/Register-form/)

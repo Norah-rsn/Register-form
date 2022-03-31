@@ -1,7 +1,4 @@
-# regiteration-form
+# regiteration form template
 
-A very simple register form using HTML and CSS,
-
-
-see profile https://github.com/Norah-rsn 
+<img width="1080" alt="png" src="https://user-images.githubusercontent.com/102757083/161148818-2de11c65-921d-4743-86e8-fa125bf3d95f.PNG">
 
